@@ -21,31 +21,13 @@
   <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,js,html,css,php,mysql,git,vite" />
 </p>
 
----
-
-## 🎨 Pixel Builder: Watch Your Contributions Become Art! 🏗️
-
-<p align="center">
-  <img src="https://github.com/Riderr470/Riderr470/assets/ridan/pixel-art.gif" alt="Pixel Builder Contributions" width="600"/>
-</p>
-
-> **Turn your GitHub activity into pixel art!** 🟩🟦🟥  
-> The more you code, the more **your grid fills up with colors!** 🎨  
-
-### 🕹️ **How It Works**
-- Each **commit** places a pixel on the grid.  
-- Your contributions **form a unique piece of pixel art** over time.  
-- More activity = **cooler artwork!** 🚀  
-
----
-
 ### 🎮 **Bonus: Your Pixel Art Gaming Stats**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ridan&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridan&layout=compact&theme=radical" />
 </p>
 
 ---
