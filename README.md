@@ -8,11 +8,11 @@
 
 ### 🔥 **About Me**
 - 🎓 Computer Science & Engineering graduate
-- 💻 1 Year Experience in Laravel & Vue.js
-- 🚀 Currently learning **Inertia.js, Tailwind CSS, and JavaScript**
-- 🔍 Actively looking for **Junior Laravel Developer** roles  
+- 💻 2 Year Experience in Laravel
+- 🚀 Currently learning **Advanced Laravel Concepts and JavaScript**
+- 🔍 Actively looking for **Laravel Developer** roles  
 - 💡 Passionate about **web development & problem-solving**  
-- ⚡ Fun fact: I love **tech, movies, and games!** 🎮  
+- ⚡ Hobbies: I love **tech, movies, and games!** 🎮  
 
 ---
 
