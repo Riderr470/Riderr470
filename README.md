@@ -34,7 +34,7 @@
 
 ### 🌎 **Find Me Here**
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/ridan-rabab/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Riderr470">
