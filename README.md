@@ -8,7 +8,7 @@
 
 ### 🔥 **About Me**
 - 🎓 Computer Science & Engineering graduate
-- 💻 2 Year Experience in Laravel
+- 💻 2+ Years of Experience in Laravel
 - 🚀 Currently learning **Advanced Laravel Concepts and JavaScript**
 - 🔍 Actively looking for **Laravel Developer** roles  
 - 💡 Passionate about **web development & problem-solving**  
